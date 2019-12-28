@@ -25,7 +25,8 @@ div#header {
      href="http://unix.josai.ac.jp/2019e/";
         height:100px;
 	width: 100%;
-        background-color:#BBBBBB;
+        background-image: url(image/header.png);
+	background-size:100% auto;
 }
 
 div#navi {
