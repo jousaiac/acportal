@@ -29,10 +29,16 @@ div#header {
 	background-size:100% auto;
 }
 
-div#navi {
-        float: left;
-        width: 234px;
-        height: 29px;
+div#header2 {
+     href="http://unix.josai.ac.jp/2019e/";
+        height:200px;
+	width: 100%;
+        background-image: url(image/header.png);
+	background-size:100% auto;
+}
+div#grobal navi {
+        height:100px;
+	width: 100%;
         margin-top: 10px;
         margin-left: 8px;
         background-color:#008000;
