@@ -13,6 +13,13 @@
 <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
 
 <script type="text/javascript">
+   function gate() {
+      var UserInput = prompt("パスワードを入力して下さい:","");
+      location.href = UserInput + ".html";
+   }
+</script>
+
+<script type="text/javascript">
         $(document).ready(function(){
             $('.mainimage').bxSlider({
                 auto: true,
@@ -30,10 +37,8 @@
 <h3>　城西大学陸上競技同好会（アスリートクラブ）
 <!--<a href="yakusyokugime2020.html">新2年生役職決め</a>
 <a href="yakusyokugime2020_3.html">新3年生役職決め</a>-->
-<tr><td align="right">城西AC</td></tr>
-<p style="text-align: right"><a href="ac.html">
-  この文字は右寄せされます！
-</a>
+<p style="text-align: right">
+<input type="button" value="城西ACチームメンバー専用ページ" onclick="gate();">
 </p>
 </h3>
 	</div>
