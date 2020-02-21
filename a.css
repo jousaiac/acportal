@@ -33,6 +33,7 @@ div#header2 {
      href="http://unix.josai.ac.jp/2019e/";
         height:200px;
 	width: 100%;
+	background: linear-gradient(#05FBFF, #1E00FF);
 	background-size:100% auto;
 }
 div#grobal navi {
