@@ -25,15 +25,23 @@ div#header {
      href="http://unix.josai.ac.jp/2019e/";
         height:100px;
 	width: 100%;
-        background-image: url(image/header.png);
+	background-image: url("image/header.png");
+	background-size:100% auto;
+}
+
+div#header1-2 {
+     href="http://unix.josai.ac.jp/2019e/";
+        height:100px;
+	width: 100%;
+	background: linear-gradient(#FFCC00, #FFCC33, #FFFF99);
 	background-size:100% auto;
 }
 
 div#header2 {
      href="http://unix.josai.ac.jp/2019e/";
-        height:200px;
+        height:250px;
 	width: 100%;
-	background: linear-gradient(#05FBFF, #1E00FF);
+	background: linear-gradient(#EEEEEE,#AAAAAA, #AAAAAA,#EEEEEE);
 	background-size:100% auto;
 }
 div#grobal navi {
@@ -44,7 +52,6 @@ div#grobal navi {
         background-color:#008000;
        
 }
-
 
 div#maincontents {
 
@@ -67,8 +74,8 @@ div#whatsNew {
 }
 
 div#twitter {
-        width: 450;
-	height: 600;
+        width: 700px;
+	height: 1000px;
 	margin-top: 50px;
         margin-bottom: 50px;
 }
