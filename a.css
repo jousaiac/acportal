@@ -10,7 +10,7 @@ body {
 }
 
 div#pageWrapper {
- 	width: 90%;
+ 	width: auto;
 	height: auto;
         margin-right: 5%;
         margin-left: 5%;
@@ -67,7 +67,10 @@ div#twitter {
 div#schedule_title {
         width: 90%;
 	height: 100%;
+	margin-top: 20px;
+        margin-bottom: 50%;
 	background-color:#ffffff;
+}
 
 div#schedule {
         width: 90%;
