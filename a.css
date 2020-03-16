@@ -73,7 +73,7 @@ div#schedule_title {
 }
 
 div#schedule {
-        width: 90%;
+        width: 98%;
 	height: 100%;
 	margin-top: 20px;
         margin-bottom: 50%;
@@ -84,7 +84,7 @@ div#schedule {
 div#whtasNew_title {
         width: 90%;
 	height: 100%;
-	margin-top: 50%;
+	margin-top: 20px;
         margin-bottom: 50%;
 	background-color:#ffffff;
 
