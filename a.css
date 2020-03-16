@@ -74,7 +74,7 @@ div#schedule_title {
 div#schedule {
 	height: 600;
 	margin-top: 20px;
-        margin-bottom: 50%;
+        margin-bottom: 0;
 	background-color:#ffffff;
         
 }
