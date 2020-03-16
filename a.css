@@ -64,6 +64,7 @@ div#twitter {
 }
 
 div#schedule_title {
+	height: 600;
         width: 90%;
 	height: 100%;
 	margin-top: 20px;
